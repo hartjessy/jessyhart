@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Jessy Hart - Multimedia Professional
+---
 
-You can use the [editor on GitHub](https://github.com/hartjessy/jessyhart/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<section id="intro">
+  <div class="container">
+    <div class="row">
+      <div class="column">
+        <h1>Hello, I’m Jessy. Designer, Developer & Videographer.</h1>
+      </div>
+      <div class="column"></div>
+    </div>
+  </div>
+</section>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<section id="about">
+  <div class="container">
+    <div class="row">
+      <div class="column">
+        <i class="icon-eye"></i>
+        <h4>UI/UX Designer</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique blandit est, eget tincidunt ipsum lacinia vitae. Nunc at vehicula nisi. Proin placerat, enim vitae blandit fermentum, metus felis aliquet orci, ut aliquam lacus ipsum id velit.</p>
+      </div>
+      <div class="column">
+        <i class="icon-code"></i>
+        <h4>Website Developer</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique blandit est, eget tincidunt ipsum lacinia vitae. Nunc at vehicula nisi. Proin placerat, enim vitae blandit fermentum, metus felis aliquet orci, ut aliquam lacus ipsum id velit.</p>
+      </div>
+    </div>
 
-### Markdown
+    <div class="row">
+      <div class="column">
+        <i class="icon-vector"></i>
+        <h4>Graphic Designer</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique blandit est, eget tincidunt ipsum lacinia vitae. Nunc at vehicula nisi. Proin placerat, enim vitae blandit fermentum, metus felis aliquet orci, ut aliquam lacus ipsum id velit.</p>
+      </div>
+      <div class="column">
+        <i class="icon-control-play"></i>
+        <h4>Videographer</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique blandit est, eget tincidunt ipsum lacinia vitae. Nunc at vehicula nisi. Proin placerat, enim vitae blandit fermentum, metus felis aliquet orci, ut aliquam lacus ipsum id velit.</p>
+      </div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hartjessy/jessyhart/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    </div>
+  </div>
+</section>
