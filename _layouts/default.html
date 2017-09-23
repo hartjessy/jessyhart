@@ -9,7 +9,7 @@
       <div class="container">
         <ul class="nav">
           <li><a href="#about">About</a></li>
-          <li><a href="#work">Work</a></li>
+            <!--   <li><a href="#work">Work</a></li> -->
           <li><a href="#contact">Contact</a></li>
         </ul>
       </div>
@@ -21,7 +21,7 @@
       <div class="cta">
         <div class="container">
           <h1>Let's Grab a Coffee!</h1>
-          <p>I am always keen for a good coffee,long black is where it's at. What's yours?</p>
+          <p>I am always keen for a good coffee, the long black is where it's at. What's yours?</p>
           <a href="mailto:hello@jessyhart.com" class="button button-clear"><i class="icon-envelope"></i>hello@jessyhart.com</a>
         </div>
       </div>
@@ -40,15 +40,15 @@
     </footer>
 
     {% if site.google_analytics %}
-      <script type="text/javascript">
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106936496-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments)};
+      gtag('js', new Date());
 
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
+      gtag('config', 'UA-106936496-1');
+    </script>
     {% endif %}
   </body>
 </html>
