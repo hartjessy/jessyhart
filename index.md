@@ -7,7 +7,7 @@ title: Jessy Hart - Multimedia Professional
   <div class="container">
     <div class="row">
       <div class="column">
-        <h1>Hello, I’m Jessy. Designer, Developer & Videographer.</h1>
+        <h1>Hello, I’m Jessy. Designer, Videographer and Covfefe Enthusiast.</h1>
       </div>
       <div class="column"></div>
     </div>
