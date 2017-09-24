@@ -32,7 +32,7 @@ title: Jessy Hart - Multimedia Professional
       </div>
       <div class="column">
         <i class="icon-code"></i>
-        <h4>Web Design & Development</h4>
+        <h4>Web Design</h4>
       </div>
     </div>
   </div>
