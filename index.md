@@ -13,7 +13,7 @@ title: Jessy Hart - Multimedia Professional
   </div>
 </section>
 
-<section id="about">
+<section id="services">
   <div class="container">
   <div class="row">
     <div class="column">
@@ -22,7 +22,7 @@ title: Jessy Hart - Multimedia Professional
     </div>
     <div class="column">
       <i class="icon-control-play"></i>
-      <h4>Videography</h4>
+      <h4>Videography </h4>
     </div>
   </div>
     <div class="row">
