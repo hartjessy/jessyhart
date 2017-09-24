@@ -18,11 +18,11 @@ title: Jessy Hart - Multimedia Professional
   <div class="row">
     <div class="column">
       <i class="icon-vector"></i>
-      <h4>Graphic Designer</h4>
+      <h4>Graphic Design</h4>
     </div>
     <div class="column">
       <i class="icon-control-play"></i>
-      <h4>Videographer</h4>
+      <h4>Videography</h4>
     </div>
   </div>
     <div class="row">
